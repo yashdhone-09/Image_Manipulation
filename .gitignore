@@ -1,0 +1,27 @@
+# Ignore object files and libraries
+*.o
+*.a
+*.so
+*.lib
+*.dll
+
+# Ignore executables
+*.exe
+*.out
+
+# Ignore build directories
+build/
+bin/
+dist/
+
+# Ignore Visual Studio Code directory
+.vscode/
+
+# Ignore JetBrains IDEs directory
+.idea/
+
+# Ignore macOS specific files
+.DS_Store
+
+# Ignore generated Makefiles
+Makefile
