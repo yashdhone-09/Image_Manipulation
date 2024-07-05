@@ -85,6 +85,5 @@ int main() {
     }
 
     std::cout << "Images inverted laterally and saved successfully." << std::endl;
-    return 0;
-    return 0;
+        return 0;
 }
